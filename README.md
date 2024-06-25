@@ -36,7 +36,7 @@ http://localhost:5173/
  - Dashboard: "/dashboard"
  - Album collection: "/my-collection"
 
-The public paths are acessible withou authentication, while the private paths needs it.
+The public paths are acessible without authentication, while the private paths needs it.
 
 ---
 Link to the backend: https://github.com/bc-fullstack-04/alexandre-aguiar-backend
