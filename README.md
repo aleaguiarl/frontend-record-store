@@ -39,4 +39,4 @@ http://localhost:5173/
 The public paths are acessible without authentication, while the private paths needs it.
 
 ---
-Link to the backend: https://github.com/bc-fullstack-04/alexandre-aguiar-backend
+Link to the backend: [https://github.com/bc-fullstack-04/alexandre-aguiar-backend](https://github.com/aleaguiarl/backend-record-store)
